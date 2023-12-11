@@ -119,7 +119,7 @@ position: absolute;
   font-size: 150%;
 }
 .shop-now{
-    background-color:#d5bdaf;
+    background-color:rgb(227, 95, 33);
     flex-wrap: wrap;
     border: none;
     color: white;
